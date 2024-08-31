@@ -352,6 +352,7 @@ li a:hover {
     background-image: url("images/header_2.jpg");
     height: 535px;
     position: relative;
+    background-repeat: no-repeat; 
     overflow: hidden;
     display: flex;
     justify-content: flex-end;
@@ -563,9 +564,9 @@ button:hover {
 
 .aimg {
     background-image: url("images/header_3.jpg");
-    /* background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
     height: 50vh;
     display: flex;
     justify-content: center;
