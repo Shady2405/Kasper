@@ -357,6 +357,7 @@ li a:hover {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    background-size: cover;
 }
 
 .p1 {
